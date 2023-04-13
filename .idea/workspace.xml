@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="543efb9d-3806-4958-aa67-9e8da7800106" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/battleship.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/battleship.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Charl\OneDrive\Documents\GitHub\amartinez211.github.io\images" />
       <recent name="C:\Users\Charl\OneDrive\Documents\GitHub\amartinez211.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -83,7 +83,7 @@
       <workItem from="1666099053148" duration="155000" />
       <workItem from="1666099275160" duration="44000" />
       <workItem from="1681360990110" duration="1090000" />
-      <workItem from="1681363213050" duration="540000" />
+      <workItem from="1681363213050" duration="1110000" />
     </task>
     <servers />
   </component>
