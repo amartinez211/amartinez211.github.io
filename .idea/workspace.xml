@@ -4,7 +4,6 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="543efb9d-3806-4958-aa67-9e8da7800106" name="Changes" comment="" />
     <list default="true" id="543efb9d-3806-4958-aa67-9e8da7800106" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/battleship.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/battleship.png" afterDir="false" />
